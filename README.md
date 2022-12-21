@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
-  
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, thanks!
 
 ### <div align="center">I'm Qianyang Wang, currently a phd student at Beijing Normal University👨‍💻.</div>  
   
@@ -29,8 +30,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QianyangWang&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QianyangWang&hide_border=true&layout=compact" align="center" style="width: 30%" /></div>  
 
 <br/>  
+
 
 
