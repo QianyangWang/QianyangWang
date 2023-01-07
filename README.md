@@ -8,13 +8,7 @@
 </a>
 <a href="https://pypi.org/user/Snapple/">
     <img src="https://img.shields.io/badge/PyPi-Snapple-orange?logo=pypi&logoColor=white">
-</a>
-
-<a href="https://github.com/QianyangWang" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?logo=github&logoColor=white">
-</a>
-
-<br/> ![visitors](https://visitor-badge.glitch.me/badge?page_id=QianyangWang&left_color=green&right_color=gray)
+</a> ![visitors](https://visitor-badge.glitch.me/badge?page_id=QianyangWang&left_color=green&right_color=gray)
                                                                                        
 
 - 🔭 I’m currently working on environmental modelling and auto-calibration.  
@@ -26,12 +20,6 @@
 - ❓ Ask me about anything related to my repositories.  
   
 
-<br/>  
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QianyangWang&hide_border=true&layout=compact" align="center" style="width: 30%" /></div>  
-
-<br/>  
 
 
 
