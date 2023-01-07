@@ -8,8 +8,9 @@
 </a>
 <a href="https://pypi.org/user/Snapple/">
     <img src="https://img.shields.io/badge/PyPi-Snapple-orange?logo=pypi&logoColor=white">
-</a> ![visitors](https://visitor-badge.glitch.me/badge?page_id=QianyangWang&left_color=green&right_color=gray)
-                                                                                       
+</a> <br/>![visitors](https://visitor-badge.glitch.me/badge?page_id=QianyangWang&left_color=green&right_color=gray)
+     
+     
 
 - 🔭 I’m currently working on environmental modelling and auto-calibration.  
   
