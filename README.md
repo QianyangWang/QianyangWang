@@ -1,6 +1,6 @@
 <p align="left">
 <a href="https://github.com/QianyangWang">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&color=0A903BFF&pause=120&multiline=true&width=500&height=80&lines=Qianyang+Wang;Beijing+Normal+University+%7C+College+of+Water+Sciences;Environmental+Modelling+%7C+Water+Quality+%7C+GIS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&color=0A903BFF&pause=120&multiline=true&width=500&height=80&lines=Qianyang+Wang;University+of+Alberta+%7C+Faculty+of+Engineering;Environmental+Modelling+%7C+Water+Quality+%7C+GIS" alt="Typing SVG" />
 </a>
 <br/>
 <a href="wqy07010944@hotmail.com">
@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on environmental modelling and auto-calibration.  
   
 
-- 🌱 I’m currently learning the source code of the BTOPMC model.  
+- 🌱 Focusing on PAHs in rivers in oil sand mining regions.  
   
 
 - ❓ Ask me about anything related to my repositories.  
