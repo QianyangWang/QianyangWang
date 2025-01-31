@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on environmental modelling and auto-calibration.  
   
 
-- 🌱 Focusing on PAHs in rivers in oil sand mining regions.  
+- 🌱 Focusing on PAHs in rivers in Alberta oil sands mining regions.  
   
 
 - ❓ Ask me about anything related to my repositories.  
